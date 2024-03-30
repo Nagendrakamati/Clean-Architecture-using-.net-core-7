@@ -1,0 +1,34 @@
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.csproj.AssemblyReference.cache
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.AssemblyInfoInputs.cache
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.AssemblyInfo.cs
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.csproj.CoreCompileInputs.cache
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Application.deps.json
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Application.dll
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Application.pdb
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Domain.dll
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Infrastructure.dll
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Domain.pdb
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Infrastructure.pdb
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.A.5467E38F.Up2Date
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.dll
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/refint/WebApp.Application.dll
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.pdb
+C:/Users/nkkamati/OneDrive - Sopra Steria/Desktop/CleanArch/WebApp/WebApp.Application/obj/Debug/net6.0/ref/WebApp.Application.dll
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Application.deps.json
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Application.dll
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Application.pdb
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Domain.dll
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Infrastructure.dll
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Domain.pdb
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/bin/Debug/net6.0/WebApp.Infrastructure.pdb
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.csproj.AssemblyReference.cache
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.AssemblyInfoInputs.cache
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.AssemblyInfo.cs
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.csproj.CoreCompileInputs.cache
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.csproj.CopyComplete
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.dll
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/refint/WebApp.Application.dll
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/WebApp.Application.pdb
+/Users/abhishek/Documents/dev/DotNet/WebApp/WebApp.Application/obj/Debug/net6.0/ref/WebApp.Application.dll
